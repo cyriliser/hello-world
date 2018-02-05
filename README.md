@@ -1,2 +1,3 @@
 # hello-world
-heloo world repo
+hello world repo
+just testing out git hub
